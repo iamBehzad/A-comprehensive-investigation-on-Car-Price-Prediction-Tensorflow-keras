@@ -1,4 +1,4 @@
-#  Car Price Prediction
+#  A comprehensive investigation on Car Price Prediction dataset (Tensorflow-keras)
 
 This dataset contains information on various characteristics of cars such as mileage, automatic or manual, engine fuel, etc., and the goal is to predict the price column using these features. The dataset has been analyzed using appropriate visualizations and exploratory data analysis (EDA) techniques to gain insights into the data, such as by creating a histogram of engine fuel type.
 
